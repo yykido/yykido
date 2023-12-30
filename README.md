@@ -1,6 +1,14 @@
 # 🎿 Yao Ye
 **`Full-Stack Developer`**
 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="YaoYe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="YaoYe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://www.linkedin.com/in/yao-ye-672b77216/
+
 <a href="https://www.linkedin.com/in/yao-ye-672b77216/">Linkedin</a>
 
 I am a dedicated full-stack developer with a proven track record in enhancing digital experiences. I played a pivotal role in improving user experience and satisfaction. My focus lies in applying innovative solutions to real-world problems, blending technical expertise with a keen eye for detail. I am committed to driving forward the digital landscape, leveraging my skills and creativity to make a lasting impact in the tech industry.
