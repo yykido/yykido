@@ -56,7 +56,7 @@ I am a dedicated full-stack developer with a proven track record in enhancing di
 #
 
 ### 📊 Leetcode Stats
-[![Leetcode Stats](https://leetcode.card.workers.dev/yykido?cache=3600)](https://leetcode.com/yykido)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/yykido)](https://leetcode.com/yykido)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
