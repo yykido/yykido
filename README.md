@@ -56,6 +56,16 @@ I am a dedicated full-stack developer with a proven track record in enhancing di
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
+#
+
+<details>
+ <summary><h3>👨‍💻 Yao's Coding Journey</h3></summary>
+   Embarking on my Master's in Computer Software Engineering, I find myself in the pivotal second year of this two-year journey. My academic path began with a deep dive into Java and C++ during my first semester, complemented by web development using React and Spring Boot. This semester, my focus has shifted to Cloud Computing and Big Data, exploring a plethora of technical stacks such as AWS, Git, GitHub, Elasticsearch, CI/CD pipelines, Redis, and RabbitMQ.
+
+As a self-motivated individual, I seize every opportunity to expand my knowledge. Beyond my coursework, I've embraced the challenge of learning Python and Java in my spare time. My curiosity doesn't stop there; I've independently mastered the fundamentals of HTML, CSS, and JavaScript, driven by a thirst for comprehensive tech expertise. This insatiable desire for growth led me to a two-month internship at Tencent, where I not only applied my skills but also gained invaluable industry insights.
+
+Recently, I've turned my attention to Docker and Kubernetes, further broadening my technical repertoire. This self-directed learning is not just about acquiring new skills; it's a testament to my commitment to staying ahead in the rapidly evolving tech landscape. As I navigate through my final year, I'm not just following a curriculum; I'm charting a path that intertwines academic learning with hands-on experience and self-guided exploration. It's a journey of continuous growth, preparing me to emerge not just with a degree, but with a rich tapestry of skills and experiences, ready to make my mark in the world of technology.
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
