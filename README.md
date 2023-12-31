@@ -1,7 +1,10 @@
 # 🎿 Yao Ye  
+
 [<img align="left" width="30px" alt="YaoYe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="30px" alt="YaoYe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+[twitter]: https://twitter.com/yy87131314
 [instagram]: https://www.instagram.com/stefano.ye/
 [linkedin]: https://www.linkedin.com/in/yao-ye-672b77216/
 <br><br>
