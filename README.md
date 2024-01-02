@@ -51,7 +51,7 @@ I am a dedicated full-stack developer with a proven track record in enhancing di
 - <b>Adv Big-Data App/Indexing (Java, SpringBoot, Elasticsearch, Redis, RabbitMQ, OAuth2.0)</b>
   - [Adv Big-Data App/Indexing](https://github.com/yykido/INFO7255/tree/main)
 - <b>Online E-Commerce Shopping Store (Spring Boot, MyBatis, MySQL, React, Redis, Elasticsearch)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Online E-Commerce Shopping Store](https://github.com/yykido/INFO6250/tree/main/final)
 - <b>Dutch Auction (Solidity, Hardhat, TypeScript, MetaMask, Chai Unit Test)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
