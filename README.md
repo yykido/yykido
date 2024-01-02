@@ -47,7 +47,7 @@ I am a dedicated full-stack developer with a proven track record in enhancing di
 
 
 - <b>High-Performance Cloud-Native Web Application (Spring Boot, Amazon Web Service, CI/CD, DevOps)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [High-Performance Cloud-Native Web Application](https://github.com/yykido/CSYE6225-2023Spring)
 - <b>Adv Big-Data App/Indexing (Java, SpringBoot, Elasticsearch, Redis, RabbitMQ, OAuth2.0)</b>
   - [Adv Big-Data App/Indexing](https://github.com/yykido/INFO7255/tree/main)
 - <b>Online E-Commerce Shopping Store (Spring Boot, MyBatis, MySQL, React, Redis, Elasticsearch)</b>
