@@ -53,10 +53,7 @@ I am a dedicated full-stack developer with a proven track record in enhancing di
 - <b>Online E-Commerce Shopping Store (Spring Boot, MyBatis, MySQL, React, Redis, Elasticsearch)</b>
   - [Online E-Commerce Shopping Store](https://github.com/yykido/INFO6250/tree/main/final)
 - <b>Dutch Auction (Solidity, Hardhat, TypeScript, MetaMask, Chai Unit Test)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Dutch Auction V6.0](https://github.com/yykido/INFO7500/tree/main/v6.0)
  
 #
 
