@@ -48,6 +48,8 @@ I am a dedicated full-stack developer with a proven track record in enhancing di
 
 - <b>High-Performance Cloud-Native Web Application (Spring Boot, Amazon Web Service, CI/CD, DevOps)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Adv Big-Data App/Indexing (Java, SpringBoot, Elasticsearch, Redis, RabbitMQ, OAuth2.0)</b>
+  - [Praciting DS & Algos in Python](https://github.com/yykido/INFO7255/tree/main)
 - <b>Online E-Commerce Shopping Store (Spring Boot, MyBatis, MySQL, React, Redis, Elasticsearch)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Dutch Auction (Solidity, Hardhat, TypeScript, MetaMask, Chai Unit Test)</b>
